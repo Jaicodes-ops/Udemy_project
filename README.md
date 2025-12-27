@@ -9,3 +9,4 @@ This project was developed as part of a Udemy course to practice and apply the c
 - Practice HTML structure and semantic elements  
 - Apply CSS styling and layout concepts  
 - Gain hands-on experience through course-based learning
+![image alt](https://github.com/Jaicodes-ops/Udemy_project/blob/ada95c77d13119d1557b82b73d6a7ef54c13c02c/c1.jpg)
